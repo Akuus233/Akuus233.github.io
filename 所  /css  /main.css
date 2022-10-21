@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-e39ac5a9-68ad-4b4d-a560-33f8932e3f81/5932caa8-18c5-4d38-accc-aa9447095546.jpg);
+    background-image: url('https://vkceyugu.cdn.bspapp.com/VKCEYUGU-e39ac5a9-68ad-4b4d-a560-33f8932e3f81/5932caa8-18c5-4d38-accc-aa9447095546.jpg');
 }
 #rin-bg:after {
     top: 0;
